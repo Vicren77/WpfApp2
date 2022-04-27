@@ -22,6 +22,7 @@ namespace WpfApp2
     {
         public MainWindow()
         {
+            Console.WriteLine("deuxieme test de branche");
             InitializeComponent();
             Console.WriteLine("hello world");
             Console.WriteLine("salut deuxieme test");
