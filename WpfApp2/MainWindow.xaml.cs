@@ -26,6 +26,7 @@ namespace WpfApp2
             InitializeComponent();
             Console.WriteLine("hello world");
             Console.WriteLine("salut deuxieme test");
+            Console.WriteLine("branche de test github");
         }
     }
 }
